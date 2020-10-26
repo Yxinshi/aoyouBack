@@ -1,6 +1,8 @@
 package com.llpwy.aoyou.pojo;
 
-public class User {
+public class User{
 
-    String bigDog="潘超";
+    String name="潘超";
+    String dog="刘新阳";
+
 }
